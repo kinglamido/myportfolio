@@ -1,0 +1,8 @@
+.skill-progress div {
+    display: flex;
+}
+
+.progress {
+    margin: auto;
+    width: 75%;
+}

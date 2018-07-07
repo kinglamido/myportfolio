@@ -1,0 +1,29 @@
+.resume-left div{
+text-align: center;
+}
+
+.resume-left img {
+    height: 200px;
+}
+
+.resume-left h2 {
+    padding-top: 2em;
+}
+
+.resume-left h4 {
+    color: gray;
+}
+
+.resume-left hr{
+width: 50%;
+border-top: 3px solid #833fb2
+}
+
+.resume-right {
+    background: #27221f;
+    color: white; 
+}
+
+.resume-right hr {
+    border-top: 3px solid #e22947
+}
